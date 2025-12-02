@@ -1,4 +1,4 @@
-# 🚗 AutoXloo AI Sales Assistant
+# 🚗 Automotive  AI Sales Assistant
 
 > **A next-generation automotive sales platform powered by multi-agent AI, demonstrating real-time collaboration between specialized AI agents for vehicle discovery, lead qualification, and appointment scheduling.**
 
