@@ -317,11 +317,9 @@ MIT License - See LICENSE file for details
 
 ## 📞 Contact
 
-Built by **[Your Name]** for **Webxloo CEO Interview**
+Built by **Michael** 
 
-- Portfolio: [your-portfolio.com]
-- LinkedIn: [your-linkedin]
-- Email: [your-email]
+- Email: [mikimare21@gmail.com]
 
 ---
 
