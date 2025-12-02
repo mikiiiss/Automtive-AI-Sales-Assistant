@@ -1,0 +1,86 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-50 text-gray-900;
+  }
+}
+
+@layer components {
+  .card {
+    @apply bg-white rounded-xl shadow-sm border border-gray-100 p-6;
+  }
+
+  .btn-primary {
+    @apply bg-primary-600 text-white px-4 py-2 rounded-lg hover:bg-primary-700 transition-colors disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+
+  .input-field {
+    @apply w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent;
+  }
+
+  .chat-message {
+    @apply max-w-[80%] px-4 py-3 rounded-lg;
+  }
+
+  .chat-message-user {
+    @apply bg-primary-600 text-white;
+  }
+
+  .chat-message-assistant {
+    @apply bg-gray-100 text-gray-900;
+  }
+}
+
+/* Custom Markdown Styles for AI Responses */
+.prose table {
+  @apply w-full border-collapse my-4;
+  border: 2px solid #e5e7eb !important;
+}
+
+.prose thead {
+  @apply bg-gradient-to-r from-blue-50 to-indigo-50;
+}
+
+.prose th {
+  @apply font-semibold text-gray-900 px-4 py-3 text-left;
+  border: 2px solid #cbd5e1 !important;
+  border-bottom: 3px solid #64748b !important;
+}
+
+.prose td {
+  @apply px-4 py-3 text-gray-700;
+  border: 1.5px solid #e5e7eb !important;
+}
+
+.prose tbody tr:nth-child(even) {
+  @apply bg-gray-50;
+}
+
+.prose tbody tr:hover {
+  @apply bg-blue-50 transition-colors;
+}
+
+.prose ul {
+  @apply my-3 space-y-2;
+}
+
+.prose li {
+  @apply leading-relaxed;
+}
+
+.prose p {
+  @apply leading-relaxed my-2;
+}
+
+.prose strong {
+  @apply font-bold text-gray-900;
+}
+
+.prose h1,
+.prose h2,
+.prose h3 {
+  @apply font-bold text-gray-900 mt-4 mb-2;
+}

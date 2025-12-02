@@ -1,0 +1,322 @@
+[
+  {
+    "year": 2024,
+    "make": "Honda",
+    "model": "Accord",
+    "make_id": 474,
+    "model_id": 1861,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Honda",
+    "model": "Civic",
+    "make_id": 474,
+    "model_id": 1863,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Honda",
+    "model": "Pilot",
+    "make_id": 474,
+    "model_id": 1864,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Honda",
+    "model": "CR-V",
+    "make_id": 474,
+    "model_id": 1865,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Honda",
+    "model": "Ridgeline",
+    "make_id": 474,
+    "model_id": 1866,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Toyota",
+    "model": "Corolla",
+    "make_id": 448,
+    "model_id": 2208,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Toyota",
+    "model": "Prius",
+    "make_id": 448,
+    "model_id": 2209,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "make_id": 448,
+    "model_id": 2211,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Toyota",
+    "model": "Highlander",
+    "make_id": 448,
+    "model_id": 2213,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Toyota",
+    "model": "4Runner",
+    "make_id": 448,
+    "model_id": 2216,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Ford",
+    "model": "Affordable Aluminum",
+    "make_id": 1237,
+    "model_id": 4563,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Ford",
+    "model": "Affordable Trailers",
+    "make_id": 10240,
+    "model_id": 26910,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Ford",
+    "model": "Travel Park",
+    "make_id": 5697,
+    "model_id": 14916,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Ford",
+    "model": "Bradford #1",
+    "make_id": 8578,
+    "model_id": 22551,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Ford",
+    "model": "Bradford Built",
+    "make_id": 6674,
+    "model_id": 18064,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Chevrolet",
+    "model": "Aveo",
+    "make_id": 467,
+    "model_id": 1828,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "make_id": 467,
+    "model_id": 1829,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Chevrolet",
+    "model": "Caprice Police Vehicle",
+    "make_id": 467,
+    "model_id": 1830,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "make_id": 467,
+    "model_id": 1831,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Chevrolet",
+    "model": "Cruze",
+    "make_id": 467,
+    "model_id": 1832,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Nissan",
+    "model": "GT-R",
+    "make_id": 478,
+    "model_id": 1890,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Nissan",
+    "model": "Versa",
+    "make_id": 478,
+    "model_id": 1894,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Nissan",
+    "model": "Altima",
+    "make_id": 478,
+    "model_id": 1904,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Nissan",
+    "model": "Leaf",
+    "make_id": 478,
+    "model_id": 1905,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Nissan",
+    "model": "Sentra",
+    "make_id": 478,
+    "model_id": 1907,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Subaru",
+    "model": "Legacy",
+    "make_id": 523,
+    "model_id": 2232,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Subaru",
+    "model": "Outback",
+    "make_id": 523,
+    "model_id": 2233,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Subaru",
+    "model": "Forester",
+    "make_id": 523,
+    "model_id": 2234,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Subaru",
+    "model": "Impreza",
+    "make_id": 523,
+    "model_id": 2235,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Subaru",
+    "model": "WRX",
+    "make_id": 523,
+    "model_id": 2237,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Mazda",
+    "model": "MX-5",
+    "make_id": 473,
+    "model_id": 2072,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Mazda",
+    "model": "Mazda3",
+    "make_id": 473,
+    "model_id": 2074,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Mazda",
+    "model": "CX-9",
+    "make_id": 473,
+    "model_id": 2077,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Mazda",
+    "model": "CX-5",
+    "make_id": 473,
+    "model_id": 2369,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Mazda",
+    "model": "CX-30",
+    "make_id": 473,
+    "model_id": 26914,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "make_id": 498,
+    "model_id": 2057,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Hyundai",
+    "model": "Tucson",
+    "make_id": 498,
+    "model_id": 2058,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Hyundai",
+    "model": "Sonata",
+    "make_id": 498,
+    "model_id": 2459,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Hyundai",
+    "model": "Elantra",
+    "make_id": 498,
+    "model_id": 2735,
+    "source": "NHTSA_API"
+  },
+  {
+    "year": 2024,
+    "make": "Hyundai",
+    "model": "Accent",
+    "make_id": 498,
+    "model_id": 2773,
+    "source": "NHTSA_API"
+  }
+]

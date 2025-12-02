@@ -1,0 +1,1182 @@
+[
+  {
+    "make": "Honda",
+    "model": "Accord",
+    "year": 2024,
+    "overview": "The 2024 Honda Accord combines refined performance with practical versatility.",
+    "powertrain": {
+      "engine": "1.5L Turbocharged 4-Cylinder",
+      "horsepower": "192 hp @ 5,500 rpm",
+      "torque": "192 lb-ft @ 1,600-5,000 rpm",
+      "transmission": "CVT",
+      "seating": "5 passengers",
+      "cargo": "16.7 cubic feet",
+      "towing": "Not recommended for towing"
+    },
+    "features": {
+      "safety": [
+        "Honda Sensing\u00ae Suite",
+        "Collision Mitigation Braking System\u2122",
+        "Road Departure Mitigation System",
+        "Adaptive Cruise Control",
+        "Lane Keeping Assist System",
+        "Blind Spot Information System"
+      ],
+      "technology": [
+        "Apple CarPlay\u00ae & Android Auto\u2122",
+        "Wireless Phone Charger",
+        "Honda Satellite-Linked Navigation System\u2122",
+        "8-inch Display Audio Touch-Screen",
+        "12-Speaker Premium Audio System"
+      ],
+      "comfort": [
+        "Dual-Zone Automatic Climate Control",
+        "Heated Front Seats",
+        "Leather-Trimmed Seats",
+        "Power Moonroof",
+        "Remote Engine Start"
+      ]
+    },
+    "dimensions": {
+      "length": "182-192 inches",
+      "width": "70-72 inches",
+      "height": "56-58 inches",
+      "wheelbase": "106-108 inches",
+      "ground_clearance": "5.5-6.2 inches"
+    },
+    "warranty": {
+      "basic": "3 years / 36,000 miles",
+      "powertrain": "5 years / 60,000 miles",
+      "roadside": "3 years / 36,000 miles"
+    },
+    "source": "manufacturer_specs"
+  },
+  {
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2024,
+    "overview": "The 2024 Honda Civic combines refined performance with practical versatility.",
+    "powertrain": {
+      "engine": "1.5L Turbocharged 4-Cylinder",
+      "horsepower": "180 hp @ 6,000 rpm",
+      "torque": "177 lb-ft @ 1,700-4,500 rpm",
+      "transmission": "CVT (Continuously Variable Transmission)",
+      "seating": "5 passengers",
+      "cargo": "14.8 cubic feet",
+      "towing": "Not recommended for towing"
+    },
+    "features": {
+      "safety": [
+        "Honda Sensing\u00ae Suite",
+        "Collision Mitigation Braking System\u2122",
+        "Road Departure Mitigation System",
+        "Adaptive Cruise Control",
+        "Lane Keeping Assist System",
+        "Blind Spot Information System"
+      ],
+      "technology": [
+        "Apple CarPlay\u00ae & Android Auto\u2122",
+        "Wireless Phone Charger",
+        "Honda Satellite-Linked Navigation System\u2122",
+        "8-inch Display Audio Touch-Screen",
+        "12-Speaker Premium Audio System"
+      ],
+      "comfort": [
+        "Dual-Zone Automatic Climate Control",
+        "Heated Front Seats",
+        "Leather-Trimmed Seats",
+        "Power Moonroof",
+        "Remote Engine Start"
+      ]
+    },
+    "dimensions": {
+      "length": "182-192 inches",
+      "width": "70-72 inches",
+      "height": "56-58 inches",
+      "wheelbase": "106-108 inches",
+      "ground_clearance": "5.5-6.2 inches"
+    },
+    "warranty": {
+      "basic": "3 years / 36,000 miles",
+      "powertrain": "5 years / 60,000 miles",
+      "roadside": "3 years / 36,000 miles"
+    },
+    "source": "manufacturer_specs"
+  },
+  {
+    "make": "Honda",
+    "model": "Pilot",
+    "year": 2024,
+    "overview": "The 2024 Honda Pilot combines refined performance with practical versatility.",
+    "powertrain": {
+      "engine": "3.5L V6",
+      "horsepower": "280 hp @ 6,000 rpm",
+      "torque": "262 lb-ft @ 4,700 rpm",
+      "transmission": "9-Speed Automatic",
+      "seating": "8 passengers",
+      "cargo": "16.5 cubic feet (83.9 with seats folded)",
+      "towing": "5,000 lbs (with AWD and towing package)"
+    },
+    "features": {
+      "safety": [
+        "Honda Sensing\u00ae Suite",
+        "Collision Mitigation Braking System\u2122",
+        "Road Departure Mitigation System",
+        "Adaptive Cruise Control",
+        "Lane Keeping Assist System",
+        "Blind Spot Information System"
+      ],
+      "technology": [
+        "Apple CarPlay\u00ae & Android Auto\u2122",
+        "Wireless Phone Charger",
+        "Honda Satellite-Linked Navigation System\u2122",
+        "8-inch Display Audio Touch-Screen",
+        "12-Speaker Premium Audio System"
+      ],
+      "comfort": [
+        "Dual-Zone Automatic Climate Control",
+        "Heated Front Seats",
+        "Leather-Trimmed Seats",
+        "Power Moonroof",
+        "Remote Engine Start"
+      ]
+    },
+    "dimensions": {
+      "length": "194-197 inches",
+      "width": "78-79 inches",
+      "height": "69-71 inches",
+      "wheelbase": "111-112 inches",
+      "ground_clearance": "7.3-8.0 inches"
+    },
+    "warranty": {
+      "basic": "3 years / 36,000 miles",
+      "powertrain": "5 years / 60,000 miles",
+      "roadside": "3 years / 36,000 miles"
+    },
+    "source": "manufacturer_specs"
+  },
+  {
+    "make": "Honda",
+    "model": "CR-V",
+    "year": 2024,
+    "overview": "The 2024 Honda CR-V combines refined performance with practical versatility.",
+    "powertrain": {
+      "engine": "1.5L Turbocharged 4-Cylinder",
+      "horsepower": "190 hp @ 5,600 rpm",
+      "torque": "179 lb-ft @ 2,000-5,000 rpm",
+      "transmission": "CVT",
+      "seating": "5 passengers",
+      "cargo": "39.2 cubic feet (76.5 with seats folded)",
+      "towing": "1,500 lbs (with proper equipment)"
+    },
+    "features": {
+      "safety": [
+        "Honda Sensing\u00ae Suite",
+        "Collision Mitigation Braking System\u2122",
+        "Road Departure Mitigation System",
+        "Adaptive Cruise Control",
+        "Lane Keeping Assist System",
+        "Blind Spot Information System"
+      ],
+      "technology": [
+        "Apple CarPlay\u00ae & Android Auto\u2122",
+        "Wireless Phone Charger",
+        "Honda Satellite-Linked Navigation System\u2122",
+        "8-inch Display Audio Touch-Screen",
+        "12-Speaker Premium Audio System"
+      ],
+      "comfort": [
+        "Dual-Zone Automatic Climate Control",
+        "Heated Front Seats",
+        "Leather-Trimmed Seats",
+        "Power Moonroof",
+        "Remote Engine Start"
+      ]
+    },
+    "dimensions": {
+      "length": "182-185 inches",
+      "width": "73-74 inches",
+      "height": "66-68 inches",
+      "wheelbase": "105-106 inches",
+      "ground_clearance": "8.2-8.6 inches"
+    },
+    "warranty": {
+      "basic": "3 years / 36,000 miles",
+      "powertrain": "5 years / 60,000 miles",
+      "roadside": "3 years / 36,000 miles"
+    },
+    "source": "manufacturer_specs"
+  },
+  {
+    "make": "Honda",
+    "model": "Ridgeline",
+    "year": 2024,
+    "overview": "The 2024 Honda Ridgeline combines refined performance with practical versatility.",
+    "powertrain": {
+      "engine": "1.5L Turbocharged 4-Cylinder",
+      "horsepower": "180 hp @ 6,000 rpm",
+      "torque": "177 lb-ft @ 1,700-4,500 rpm",
+      "transmission": "CVT (Continuously Variable Transmission)",
+      "seating": "5 passengers",
+      "cargo": "14.8 cubic feet",
+      "towing": "Not recommended for towing"
+    },
+    "features": {
+      "safety": [
+        "Honda Sensing\u00ae Suite",
+        "Collision Mitigation Braking System\u2122",
+        "Road Departure Mitigation System",
+        "Adaptive Cruise Control",
+        "Lane Keeping Assist System",
+        "Blind Spot Information System"
+      ],
+      "technology": [
+        "Apple CarPlay\u00ae & Android Auto\u2122",
+        "Wireless Phone Charger",
+        "Honda Satellite-Linked Navigation System\u2122",
+        "8-inch Display Audio Touch-Screen",
+        "12-Speaker Premium Audio System"
+      ],
+      "comfort": [
+        "Dual-Zone Automatic Climate Control",
+        "Heated Front Seats",
+        "Leather-Trimmed Seats",
+        "Power Moonroof",
+        "Remote Engine Start"
+      ]
+    },
+    "dimensions": {
+      "length": "182-192 inches",
+      "width": "70-72 inches",
+      "height": "56-58 inches",
+      "wheelbase": "106-108 inches",
+      "ground_clearance": "5.5-6.2 inches"
+    },
+    "warranty": {
+      "basic": "3 years / 36,000 miles",
+      "powertrain": "5 years / 60,000 miles",
+      "roadside": "3 years / 36,000 miles"
+    },
+    "source": "manufacturer_specs"
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2024,
+    "overview": "The 2024 Toyota Corolla delivers legendary reliability with modern technology.",
+    "powertrain": {
+      "engine": "2.0L 4-Cylinder",
+      "horsepower": "169 hp @ 6,600 rpm",
+      "torque": "151 lb-ft @ 4,800 rpm",
+      "transmission": "CVT",
+      "seating": "5 passengers",
+      "cargo": "13.1 cubic feet",
+      "towing": "Not recommended"
+    },
+    "features": {
+      "safety": [
+        "Toyota Safety Sense 2.5+",
+        "Pre-Collision System with Pedestrian Detection",
+        "Lane Departure Alert with Steering Assist",
+        "Automatic High Beams",
+        "Dynamic Radar Cruise Control",
+        "Blind Spot Monitor"
+      ],
+      "technology": [
+        "Apple CarPlay\u00ae & Android Auto\u2122",
+        "Wi-Fi Connect",
+        "Amazon Alexa Integration",
+        "9-inch Touchscreen Display",
+        "JBL\u00ae Premium Audio"
+      ],
+      "comfort": [
+        "Dual-Zone Climate Control",
+        "Heated and Ventilated Front Seats",
+        "SofTex\u00ae-Trimmed Seats",
+        "Power Moonroof",
+        "Smart Key with Push Button Start"
+      ]
+    },
+    "dimensions": {
+      "length": "182-192 inches",
+      "width": "70-72 inches",
+      "height": "56-58 inches",
+      "wheelbase": "106-108 inches",
+      "ground_clearance": "5.5-6.2 inches"
+    },
+    "warranty": {
+      "basic": "3 years / 36,000 miles",
+      "powertrain": "5 years / 60,000 miles",
+      "hybrid_components": "8 years / 100,000 miles"
+    },
+    "source": "manufacturer_specs"
+  },
+  {
+    "make": "Toyota",
+    "model": "Prius",
+    "year": 2024,
+    "overview": "The 2024 Toyota Prius delivers legendary reliability with modern technology.",
+    "powertrain": {
+      "engine": "2.5L 4-Cylinder Dynamic Force Engine",
+      "horsepower": "203 hp @ 6,600 rpm",
+      "torque": "184 lb-ft @ 5,000 rpm",
+      "transmission": "8-Speed Automatic",
+      "seating": "5 passengers",
+      "cargo": "15.1 cubic feet",
+      "towing": "Not recommended"
+    },
+    "features": {
+      "safety": [
+        "Toyota Safety Sense 2.5+",
+        "Pre-Collision System with Pedestrian Detection",
+        "Lane Departure Alert with Steering Assist",
+        "Automatic High Beams",
+        "Dynamic Radar Cruise Control",
+        "Blind Spot Monitor"
+      ],
+      "technology": [
+        "Apple CarPlay\u00ae & Android Auto\u2122",
+        "Wi-Fi Connect",
+        "Amazon Alexa Integration",
+        "9-inch Touchscreen Display",
+        "JBL\u00ae Premium Audio"
+      ],
+      "comfort": [
+        "Dual-Zone Climate Control",
+        "Heated and Ventilated Front Seats",
+        "SofTex\u00ae-Trimmed Seats",
+        "Power Moonroof",
+        "Smart Key with Push Button Start"
+      ]
+    },
+    "dimensions": {
+      "length": "182-192 inches",
+      "width": "70-72 inches",
+      "height": "56-58 inches",
+      "wheelbase": "106-108 inches",
+      "ground_clearance": "5.5-6.2 inches"
+    },
+    "warranty": {
+      "basic": "3 years / 36,000 miles",
+      "powertrain": "5 years / 60,000 miles",
+      "hybrid_components": "8 years / 100,000 miles"
+    },
+    "source": "manufacturer_specs"
+  },
+  {
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "year": 2024,
+    "overview": "The 2024 Toyota Land Cruiser delivers legendary reliability with modern technology.",
+    "powertrain": {
+      "engine": "2.5L 4-Cylinder Dynamic Force Engine",
+      "horsepower": "203 hp @ 6,600 rpm",
+      "torque": "184 lb-ft @ 5,000 rpm",
+      "transmission": "8-Speed Automatic",
+      "seating": "5 passengers",
+      "cargo": "15.1 cubic feet",
+      "towing": "Not recommended"
+    },
+    "features": {
+      "safety": [
+        "Toyota Safety Sense 2.5+",
+        "Pre-Collision System with Pedestrian Detection",
+        "Lane Departure Alert with Steering Assist",
+        "Automatic High Beams",
+        "Dynamic Radar Cruise Control",
+        "Blind Spot Monitor"
+      ],
+      "technology": [
+        "Apple CarPlay\u00ae & Android Auto\u2122",
+        "Wi-Fi Connect",
+        "Amazon Alexa Integration",
+        "9-inch Touchscreen Display",
+        "JBL\u00ae Premium Audio"
+      ],
+      "comfort": [
+        "Dual-Zone Climate Control",
+        "Heated and Ventilated Front Seats",
+        "SofTex\u00ae-Trimmed Seats",
+        "Power Moonroof",
+        "Smart Key with Push Button Start"
+      ]
+    },
+    "dimensions": {
+      "length": "182-192 inches",
+      "width": "70-72 inches",
+      "height": "56-58 inches",
+      "wheelbase": "106-108 inches",
+      "ground_clearance": "5.5-6.2 inches"
+    },
+    "warranty": {
+      "basic": "3 years / 36,000 miles",
+      "powertrain": "5 years / 60,000 miles",
+      "hybrid_components": "8 years / 100,000 miles"
+    },
+    "source": "manufacturer_specs"
+  },
+  {
+    "make": "Toyota",
+    "model": "Highlander",
+    "year": 2024,
+    "overview": "The 2024 Toyota Highlander delivers legendary reliability with modern technology.",
+    "powertrain": {
+      "engine": "3.5L V6",
+      "horsepower": "295 hp @ 6,600 rpm",
+      "torque": "263 lb-ft @ 4,700 rpm",
+      "transmission": "8-Speed Automatic",
+      "seating": "8 passengers",
+      "cargo": "16.0 cubic feet (84.3 with seats folded)",
+      "towing": "5,000 lbs (with towing package)"
+    },
+    "features": {
+      "safety": [
+        "Toyota Safety Sense 2.5+",
+        "Pre-Collision System with Pedestrian Detection",
+        "Lane Departure Alert with Steering Assist",
+        "Automatic High Beams",
+        "Dynamic Radar Cruise Control",
+        "Blind Spot Monitor"
+      ],
+      "technology": [
+        "Apple CarPlay\u00ae & Android Auto\u2122",
+        "Wi-Fi Connect",
+        "Amazon Alexa Integration",
+        "9-inch Touchscreen Display",
+        "JBL\u00ae Premium Audio"
+      ],
+      "comfort": [
+        "Dual-Zone Climate Control",
+        "Heated and Ventilated Front Seats",
+        "SofTex\u00ae-Trimmed Seats",
+        "Power Moonroof",
+        "Smart Key with Push Button Start"
+      ]
+    },
+    "dimensions": {
+      "length": "194-197 inches",
+      "width": "78-79 inches",
+      "height": "69-71 inches",
+      "wheelbase": "111-112 inches",
+      "ground_clearance": "7.3-8.0 inches"
+    },
+    "warranty": {
+      "basic": "3 years / 36,000 miles",
+      "powertrain": "5 years / 60,000 miles",
+      "hybrid_components": "8 years / 100,000 miles"
+    },
+    "source": "manufacturer_specs"
+  },
+  {
+    "make": "Toyota",
+    "model": "4Runner",
+    "year": 2024,
+    "overview": "The 2024 Toyota 4Runner delivers legendary reliability with modern technology.",
+    "powertrain": {
+      "engine": "2.5L 4-Cylinder Dynamic Force Engine",
+      "horsepower": "203 hp @ 6,600 rpm",
+      "torque": "184 lb-ft @ 5,000 rpm",
+      "transmission": "8-Speed Automatic",
+      "seating": "5 passengers",
+      "cargo": "15.1 cubic feet",
+      "towing": "Not recommended"
+    },
+    "features": {
+      "safety": [
+        "Toyota Safety Sense 2.5+",
+        "Pre-Collision System with Pedestrian Detection",
+        "Lane Departure Alert with Steering Assist",
+        "Automatic High Beams",
+        "Dynamic Radar Cruise Control",
+        "Blind Spot Monitor"
+      ],
+      "technology": [
+        "Apple CarPlay\u00ae & Android Auto\u2122",
+        "Wi-Fi Connect",
+        "Amazon Alexa Integration",
+        "9-inch Touchscreen Display",
+        "JBL\u00ae Premium Audio"
+      ],
+      "comfort": [
+        "Dual-Zone Climate Control",
+        "Heated and Ventilated Front Seats",
+        "SofTex\u00ae-Trimmed Seats",
+        "Power Moonroof",
+        "Smart Key with Push Button Start"
+      ]
+    },
+    "dimensions": {
+      "length": "182-192 inches",
+      "width": "70-72 inches",
+      "height": "56-58 inches",
+      "wheelbase": "106-108 inches",
+      "ground_clearance": "5.5-6.2 inches"
+    },
+    "warranty": {
+      "basic": "3 years / 36,000 miles",
+      "powertrain": "5 years / 60,000 miles",
+      "hybrid_components": "8 years / 100,000 miles"
+    },
+    "source": "manufacturer_specs"
+  },
+  {
+    "make": "Ford",
+    "model": "Affordable Aluminum",
+    "year": 2024,
+    "overview": "The 2024 Ford Affordable Aluminum offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Ford",
+    "model": "Affordable Trailers",
+    "year": 2024,
+    "overview": "The 2024 Ford Affordable Trailers offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Ford",
+    "model": "Travel Park",
+    "year": 2024,
+    "overview": "The 2024 Ford Travel Park offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Ford",
+    "model": "Bradford #1",
+    "year": 2024,
+    "overview": "The 2024 Ford Bradford #1 offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Ford",
+    "model": "Bradford Built",
+    "year": 2024,
+    "overview": "The 2024 Ford Bradford Built offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Aveo",
+    "year": 2024,
+    "overview": "The 2024 Chevrolet Aveo offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "year": 2024,
+    "overview": "The 2024 Chevrolet Camaro offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Caprice Police Vehicle",
+    "year": 2024,
+    "overview": "The 2024 Chevrolet Caprice Police Vehicle offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Corvette",
+    "year": 2024,
+    "overview": "The 2024 Chevrolet Corvette offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Cruze",
+    "year": 2024,
+    "overview": "The 2024 Chevrolet Cruze offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Nissan",
+    "model": "GT-R",
+    "year": 2024,
+    "overview": "The 2024 Nissan GT-R offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Nissan",
+    "model": "Versa",
+    "year": 2024,
+    "overview": "The 2024 Nissan Versa offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Nissan",
+    "model": "Altima",
+    "year": 2024,
+    "overview": "The 2024 Nissan Altima offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Nissan",
+    "model": "Leaf",
+    "year": 2024,
+    "overview": "The 2024 Nissan Leaf offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Nissan",
+    "model": "Sentra",
+    "year": 2024,
+    "overview": "The 2024 Nissan Sentra offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Subaru",
+    "model": "Legacy",
+    "year": 2024,
+    "overview": "The 2024 Subaru Legacy offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Subaru",
+    "model": "Outback",
+    "year": 2024,
+    "overview": "The 2024 Subaru Outback offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Subaru",
+    "model": "Forester",
+    "year": 2024,
+    "overview": "The 2024 Subaru Forester offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Subaru",
+    "model": "Impreza",
+    "year": 2024,
+    "overview": "The 2024 Subaru Impreza offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Subaru",
+    "model": "WRX",
+    "year": 2024,
+    "overview": "The 2024 Subaru WRX offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Mazda",
+    "model": "MX-5",
+    "year": 2024,
+    "overview": "The 2024 Mazda MX-5 offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Mazda",
+    "model": "Mazda3",
+    "year": 2024,
+    "overview": "The 2024 Mazda Mazda3 offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Mazda",
+    "model": "CX-9",
+    "year": 2024,
+    "overview": "The 2024 Mazda CX-9 offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Mazda",
+    "model": "CX-5",
+    "year": 2024,
+    "overview": "The 2024 Mazda CX-5 offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Mazda",
+    "model": "CX-30",
+    "year": 2024,
+    "overview": "The 2024 Mazda CX-30 offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "year": 2024,
+    "overview": "The 2024 Hyundai Santa Fe offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Tucson",
+    "year": 2024,
+    "overview": "The 2024 Hyundai Tucson offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Sonata",
+    "year": 2024,
+    "overview": "The 2024 Hyundai Sonata offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Elantra",
+    "year": 2024,
+    "overview": "The 2024 Hyundai Elantra offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  },
+  {
+    "make": "Hyundai",
+    "model": "Accent",
+    "year": 2024,
+    "overview": "The 2024 Hyundai Accent offers modern features and reliability.",
+    "powertrain": {
+      "engine": "See dealer for details",
+      "transmission": "Automatic"
+    },
+    "features": {
+      "safety": [
+        "Advanced safety features available"
+      ],
+      "technology": [
+        "Modern infotainment system"
+      ],
+      "comfort": [
+        "Comfortable seating"
+      ]
+    },
+    "source": "generic_template"
+  }
+]
